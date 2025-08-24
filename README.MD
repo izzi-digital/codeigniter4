@@ -56,6 +56,7 @@ Pastikan Anda sudah menginstal perangkat lunak berikut:
 
     - Salin file `.env.example` menjadi `.env`.
     - Salin file `.htaccess.example` menjadi `.htaccess`.
+    - Saat deploy aplikasi ke hosting, ubah teks `/codeigniter4/` di dalam file `.htaccess` menjadi `/` .
     - Buka Direktori public, dan salin file `.htaccess.public-example` menjadi `.htaccess`.
     - Buka server MySQL (bisa pakai phpMyAdmin), dan buatlah database dengan nama myinvito.
     - Atur koneksi database Anda:
