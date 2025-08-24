@@ -18,7 +18,7 @@
 
 ## Tentang Proyek
 
-**Qohwah CI4** adalah sebuah aplikasi web yang dirancang untuk memudahkan pembuatan dan manajemen undangan digital. Platform ini menyediakan berbagai template modern yang dapat disesuaikan oleh pengguna. Dibangun di atas kerangka kerja PHP CodeIgniter 4 yang ringan dan cepat, MyInvito bertujuan menjadi solusi lengkap untuk kebutuhan undangan digital.
+**Qohwah CI4** dirancang untuk memudahkan pembuatan aplikasi berbasis web dengan Codeigniter 4.
 
 ---
 
